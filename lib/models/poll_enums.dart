@@ -1,0 +1,1 @@
+enum PollInteractionMode { swipe, tap }

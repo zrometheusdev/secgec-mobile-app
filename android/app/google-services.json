@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "299499126037",
+    "project_id": "secgec-b990e",
+    "storage_bucket": "secgec-b990e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299499126037:android:4ebebf96a3dddaa055bd1c",
+        "android_client_info": {
+          "package_name": "com.example.secgec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299499126037-th05ugntihvablochgjjm3ofr5t9nr90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNvoShjr5V4bwewzg17hhLyv1zDx-R-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299499126037-th05ugntihvablochgjjm3ofr5t9nr90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299499126037-oo14o6ge7bkohed4lpmejv5m0j98m9h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secgec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299499126037:android:ffc7a093ff577add55bd1c",
+        "android_client_info": {
+          "package_name": "com.secgec.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299499126037-th05ugntihvablochgjjm3ofr5t9nr90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNvoShjr5V4bwewzg17hhLyv1zDx-R-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299499126037-th05ugntihvablochgjjm3ofr5t9nr90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299499126037-oo14o6ge7bkohed4lpmejv5m0j98m9h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secgec"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
